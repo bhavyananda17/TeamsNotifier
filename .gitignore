@@ -1,0 +1,25 @@
+# Build artifacts
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+appsettings.json
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
